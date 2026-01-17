@@ -2,6 +2,7 @@
 | --------- | ------------ | --------------------------------------------------------------------------------------------- |
 | Alabama   | 7R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::62dd403f-c275-40e7-b697-f36b34365ca5) |
 | Georgia | 11R–3D        | [View Map](https://davesredistricting.org/maps#viewmap::0043bc55-f326-4e23-928e-9031f339445b) |
+| Georgia | 10R–4D        | [View Map](https://davesredistricting.org/maps#viewmap::a5a17ae2-2386-40d7-a3bc-bd2fda4f41f1) |
 | Louisiana | 6R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::8a6a8fe0-9540-4894-9b8e-b6b4a84f4d03) |
 | Mississippi | 4R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::47d048c7-925e-4c64-8717-be035d58b89e) |
 | South Carolina | 7R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::44b6eb67-a6af-48fb-a6d2-9eb31f34d352) |
