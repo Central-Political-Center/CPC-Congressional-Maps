@@ -8,6 +8,7 @@
 | Minnesota | 6D–2R        | [View Map](https://davesredistricting.org/maps#viewmap::a67a7c08-0d40-4806-b37c-dd4601a7c104) |
 | Nevada | 3D-1D             | [View Map](https://davesredistricting.org/maps#viewmap::ee955781-3e95-4293-8504-7f7fdad6c8ef) |   
 | New Jersey | 11D–1R        | [View Map](https://davesredistricting.org/maps#viewmap::1e418b60-d74d-4f45-a1a4-69bf68ee39de) |
+| New York | 23D–3R        | [View Map](https://davesredistricting.org/maps#viewmap::aa427ad9-d526-43f7-8edd-7f69d00a1216) |
 | Oregon | 6D–0R        | [View Map](https://davesredistricting.org/maps#viewmap::dd43783b-a589-496c-bd5d-62c155b71bdb) |
 | Virginia  | 10D–1R       | [View Map](https://davesredistricting.org/maps#viewmap::bff5eb14-d1f7-4324-b837-6b0109d40a77) |
 | Washington | 10D–0R        | [View Map](https://davesredistricting.org/maps#viewmap::9774eb71-9113-4b44-a732-a56f99cbb5f0) |
