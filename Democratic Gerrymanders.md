@@ -12,6 +12,7 @@
 | New Jersey | 11D–1R | <img src="https://github.com/user-attachments/assets/cc6e1ac2-c248-4198-84ce-3537582768b2"> | [View Map](https://davesredistricting.org/maps#viewmap::1e418b60-d74d-4f45-a1a4-69bf68ee39de) |
 | New York | 23D–3R | <img src="https://github.com/user-attachments/assets/e5f6d43c-7042-4738-864e-c878db4fd60c"> | [View Map](https://davesredistricting.org/maps#viewmap::aa427ad9-d526-43f7-8edd-7f69d00a1216) |
 | Oregon | 6D–0R | <img src="https://github.com/user-attachments/assets/a9ea1cbd-b41f-474f-b4f6-42faa2d0dcf6"> | [View Map](https://davesredistricting.org/maps#viewmap::dd43783b-a589-496c-bd5d-62c155b71bdb) |
+| Pennsylvania | 11D–6R | <img src="https://github.com/user-attachments/assets/261434e6-b6fe-4d73-a422-7bb0ec467fae"> | [View Map](https://davesredistricting.org/maps#viewmap::b09c33de-c8b5-4893-ab39-84e7ac4e1a5b) |
 | Virginia | 10D–1R | <img src="https://github.com/user-attachments/assets/3842baf6-f61c-438d-8871-2e81f0265dbc"> | [View Map](https://davesredistricting.org/maps#viewmap::bff5eb14-d1f7-4324-b837-6b0109d40a77) |
 | Virginia 2.0 | 9D–2R | <img src="https://github.com/user-attachments/assets/f67bccd9-7688-4cd9-a072-f583d9e1f923"> | [View Map](https://davesredistricting.org/maps#viewmap::bff5eb14-d1f7-4324-b837-6b0109d40a77) |
 | Washington | 10D–0R | <img src="https://github.com/user-attachments/assets/85b1bc50-f855-4d64-9c1b-27ad92afd889"> | [View Map](https://davesredistricting.org/maps#viewmap::9774eb71-9113-4b44-a732-a56f99cbb5f0) |
